@@ -1,3 +1,3 @@
-# demo
+# Demo
 
-Some description
+Some description should put in here related to project topic
